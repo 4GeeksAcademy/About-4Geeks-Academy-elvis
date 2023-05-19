@@ -1,0 +1,61 @@
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Elvis
+    last_name: Hernandez
+    motto: University Student
+    avatar: ~
+    summary: |
+        Studying at FIU Computer Science. Interested in Software Development, using Java, Python, Javascript and other tools. 
+         
+
+    # Sidebar links
+    email: elvishernandez@gmail.com
+    phone: 414 100 52 42
+    website: ~
+    linkedin: linkedin.com/in/elvis-Hernandez-70954817b
+    github: elvishernandezc22
+    twitter: ~
+    stack-overflow: ~
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Medium
+
+    interests:
+      - item: Web Development
+      - item: App Development
+      - item: Machine Learning
+
+education:
+    - degree: Bachelor of Science
+      university: Florida International University
+      time: 2015 - 2019
+
+experiences:
+
+projects:
+
+skills:
+    toolset:
+      - name: Python 
+        level: ~
+
+      - name: Java
+        level: ~
+
+      - name: Javascript
+        level: ~
+
+      - name: HTML5 & CSS
+        level: ~
+
+      - name: Bootstrap
+        level: ~
